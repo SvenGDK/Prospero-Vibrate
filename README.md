@@ -1,5 +1,9 @@
 # Prospero Vibrate
 
+<p align="center">
+<img src="https://github.com/SvenGDK/Prospero-Vibrate/blob/main/sce_sys/icon0.png" width="256">
+</p>
+
 Haptics that move you. A frame-driven studio for the PS4 & PS5 controller's vibration motors.
 
 ## Features
